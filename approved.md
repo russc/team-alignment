@@ -5,9 +5,12 @@ This is a list of approved tools, plugins, and libraries we use most frequently.
 
  * Datepicker
  * Vue
+ * Eslint
 
 ## CSS/SASS
- * Foundation
+
+* Foundation
+* Stylelint
 
 ## Build Tools
  
