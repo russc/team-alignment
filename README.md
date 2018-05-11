@@ -6,7 +6,10 @@ Please read this guide if you're interested in contributing to DX Tech Team Code
 
 ## Process Overview
 
- 1. Create an Issue and state the purpose, need, and share any relevant supporting links that will aide in a productive discussion.  Use [this template](https://github.com/russc/proposal.md).
+ 1. Create an Issue and state the purpose and need.  In addition, include any relevant links to material that will aide in a productive discussion.  Use [this template](https://github.com/russc/team-alignment/blob/master/proposal.md).
+ 2. Receive Feedback
+ 3. Once you have feedback, make your changes and submit a pull request to Master.
+ 4. When the change is merged, we will close out the issue.
  
 
 ## Discussions
