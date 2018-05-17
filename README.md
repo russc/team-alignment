@@ -8,7 +8,7 @@ Please read this guide if you're interested in contributing to DX Tech Team Code
 
 **Our community is a safe and friendly environment, where we support and treat each other with respect**.
 
-We invite you to actively participate discussions and contributions. [Slack](https://shsdxui.slack.com) is the best place to start an informal conversation about a new idea.  The discussion can migrate over to github when the originator(s) is/are ready to make the contribution.
+We invite you to actively participate discussions and contributions. Our DX Slack dev channel is the best place to start an informal conversation about a new idea.  The discussion can migrate over to github when the originator(s) is/are ready to make the contribution.
 
 ### Contributing Process Overview
 To contribute changes or new ideas on standards or tools, it's best to start a discussion in an issue first, ideally with a proposal. This allows everyone to participate and ensures that no potential implementation work is in vain. To request a new standard or tool, you can follow these steps:
