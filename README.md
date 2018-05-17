@@ -14,6 +14,6 @@ We invite you to actively participate discussions and contributions. Our DX Slac
 To contribute changes or new ideas on standards or tools, it's best to start a discussion in an issue first, ideally with a proposal. This allows everyone to participate and ensures that no potential implementation work is in vain. To request a new standard or tool, you can follow these steps:
 
  1. Create an Issue and state the purpose and need.  In addition, include any relevant links to material that will aide in a productive discussion.  Use [this template](https://github.com/russc/team-alignment/blob/master/proposal.md).
- 2. Receive feedback from the community and wait for a consensus from one of the four team supervisors.
- 3. Once you have feedback, make your changes and submit a pull request to Master.
+ 2. Receive feedback from the community and wait for a consensus from the team supervisors.
+ 3. Once you have feedback and the supervisors are on board, make your changes and submit a pull request to Master.
  4. When the change is merged, we will close out the issue.
