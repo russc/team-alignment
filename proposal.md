@@ -2,6 +2,6 @@
 
 **What is the purpose?**
 
-**How would we implment this idea?**
+**How would we implement this idea?**
 
 **Supporting Materials**
