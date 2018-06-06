@@ -1,0 +1,33 @@
+<?php
+
+$finder = PhpCsFixer\Finder::create()
+            ->in(__DIR__);
+
+return PhpCsFixer\Config::create()
+    ->setRules(
+        [
+            '@PSR2'                                 => true,
+            'array_syntax'                          => ['syntax' => 'short'],
+            'align_multiline_comment'               => ['comment_type' => 'all_multiline'],
+            'combine_consecutive_unsets'            => true,
+            'no_useless_return'                     => true,
+            'no_useless_else'                       => true,
+            'array_indentation'                     => true,
+            'whitespace_after_comma_in_array'       => true,
+            'no_blank_lines_after_phpdoc'           => true,
+            'phpdoc_align'                          => true,
+            'phpdoc_indent'                         => true,
+            'phpdoc_single_line_var_spacing'        => true,
+            'phpdoc_trim'                           => true,
+            'phpdoc_separation'                     => true,
+            'phpdoc_add_missing_param_annotation'   => true,
+            'no_empty_phpdoc'                       => true,
+            'binary_operator_spaces'                => [
+                'operators' => [
+                    '==='   => 'align_single_space_minimal',
+                    '=>'    => 'align_single_space_minimal'
+                ]
+            ]
+        ]
+    )
+    ->setFinder($finder);
